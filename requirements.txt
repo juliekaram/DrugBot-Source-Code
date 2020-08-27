@@ -1,0 +1,12 @@
+# Python dependencies
+uwsgi
+Flask
+pip
+python-dotenv
+biopython
+slackclient>=2.1.0
+slackeventsapi>=2.0.0
+plotly
+requests
+pandas
+matplotlib
