@@ -1,6 +1,10 @@
 # DrugBot
 
-A brief application description / tagline.
+source code for DrugBot, an application that I worked on while working as a research trainee at the Ma'ayan Lab at the Icahn School of Medicine during summer 2020.
+
+application available for download: https://maayanlab.slack.com/apps/A016AFALY4B-drugbot
+
+full repository: https://github.com/MaayanLab/Drugs-and-Genes-SlackBot.
 
 ## Development
 
